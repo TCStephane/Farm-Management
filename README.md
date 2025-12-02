@@ -1,6 +1,6 @@
 ### Farm Management
 
-Farm app
+Farm apps
 
 ### Installation
 
